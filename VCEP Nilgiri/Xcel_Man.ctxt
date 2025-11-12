@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Xcel_Man
+comment1.params=path
+comment1.target=void\ read(java.lang.String)
+comment2.params=path
+comment2.target=void\ do11(java.lang.String)
+comment3.params=
+comment3.target=void\ getVotes()
+comment4.params=p
+comment4.target=void\ regPost(java.lang.String)
+comment5.params=path
+comment5.target=void\ write(java.lang.String)
+comment6.params=cand
+comment6.target=void\ edit(int)
+comment7.params=
+comment7.target=void\ clear()
+comment8.params=
+comment8.target=void\ print()
+numComments=9
