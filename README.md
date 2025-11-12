@@ -12,5 +12,3 @@ USER INSTRUCTIONS: open the BlueJ project in VCEP main and then run Main Menu, t
 
 
 <img width="1920" height="1200" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/d2a6efdd-45a7-40b4-b677-683f580952c2" />
-
-![Uploading Screenshot (7).png…]()
